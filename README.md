@@ -1,7 +1,11 @@
-DATA NETWORKING_TELE_5330 CISCO PACKET TRACER
-Project
+```DATA NETWORKING_TELE_5330 CISCO PACKET TRACER```
+
+`Project`
+
 Design a network for a corporate organization using cisco packet tracer.
-Description
+
+`Description`
+
 Design and implement a multi-location, inter-networking strategy for a small and stable
 organization. This organization currently has 5 locations. Corporate headquarters is
 located in Boston and Mumbai. The company is placed at 3 other locations, which are
@@ -59,17 +63,17 @@ Add-ons (optional – 15 Marks)
 • Implement a multi-layer switch in the Beijing location, this multilayer switch
 should carry inter-VLAN routing.
 • Configure EtherChannel with LACP as the protocol on NY.
-Guide for Report
-You may want to mention following topics on your report, it’s only an example,
-you can also mention something else that you think it’s important.
+
 1. PROJECT DESIGN
 • High Level Diagram
 • Cost of Network Equipment.
+
 2. NETWORK OPTIMIZATION
 • Cost Optimization of Network
 • Detailed Network Architecture
 • Individual Office Network (Headquarter)
 • Assignment of IP address
+
 3. Takeaway Questions
 • Routing Protocol OSPF: Explain the following
 • Which one is better Routing protocol RIPv2 or OSPF? Why? Explain
@@ -79,6 +83,7 @@ why do we use the area concept in OSPF?
 • Security and Redundancy plan
 • How does STP avoid looping? Explain its working in detail
 • Difference between STP, PVSTP and MSTP.
+
 4. TEST PLAN FOR THE NETWORK (*Important,10%Marks)
 Write down the detailed steps for testing the functions below. Screenshot of your
 test results are required.
@@ -88,6 +93,8 @@ test results are required.
 • Test redundancy plan
 • Test add-ons
 • Others (Optional)
-NOTE
+
+
+``NOTE``	
 This is an individual project. Mail a zip file containing your project report and .pkt
 file to all Tas and submit also submit report on Blackboard.
